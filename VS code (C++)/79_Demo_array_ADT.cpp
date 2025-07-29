@@ -8,7 +8,7 @@ class Array{
     int *A;
     int size;
     int length;
-
+//
     public:
     Array(int sz){
         size = sz;
